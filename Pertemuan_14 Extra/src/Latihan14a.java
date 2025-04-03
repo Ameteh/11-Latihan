@@ -2,7 +2,7 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 
-public class Latihan14a {
+public class Latihan14Quiz {
     private static DefaultTableModel tableModel;
     private static JTable table;
 
